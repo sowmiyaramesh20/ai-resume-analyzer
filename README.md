@@ -100,5 +100,4 @@ MIT License — free to use and modify.
 ---
 
 ## 👨‍💻 Author
-
-Made with ❤️ using Python + AI
+sowmiya. R
